@@ -75,4 +75,3 @@ public class BoardMenu {
         return entity;
     }
 }
-
